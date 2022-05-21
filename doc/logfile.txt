@@ -1,0 +1,69 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/private/var/folders/kk/6w3f3z0j1yq99y_420s8dg2c0000gn/T/AppTranslocation/104029CA-AFDA-43C4-9726-B60BC0C23375/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/kembakonteh/Desktop/CSC 142/HW6
+-d
+/Users/kembakonteh/Desktop/CSC 142/HW6/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java
+<---- end of javadoc command ---->
+Loading source file /Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java...
+Constructing Javadoc information...
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:70: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:90: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:108: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:140: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:164: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:189: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:214: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:235: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:257: error: method sampleMethod(int) is already defined in class HotelReviews
+    public int sampleMethod(int y)
+               ^
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating /Users/kembakonteh/Desktop/CSC 142/HW6/doc/HotelReviews.html...
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:25: warning - @return tag has no arguments.
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:41: warning - @param tag has no arguments.
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:25: warning - Tag @return cannot be used in constructor documentation.  It can only be used in the following types of documentation: method.
+/Users/kembakonteh/Desktop/CSC 142/HW6/HotelReviews.java:41: warning - @param argument "" is not a parameter name.
+Generating /Users/kembakonteh/Desktop/CSC 142/HW6/doc/package-frame.html...
+Generating /Users/kembakonteh/Desktop/CSC 142/HW6/doc/package-summary.html...
+Generating /Users/kembakonteh/Desktop/CSC 142/HW6/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/kembakonteh/Desktop/CSC 142/HW6/doc/allclasses-frame.html...
+Generating /Users/kembakonteh/Desktop/CSC 142/HW6/doc/allclasses-noframe.html...
+Generating /Users/kembakonteh/Desktop/CSC 142/HW6/doc/index.html...
+13 warnings
